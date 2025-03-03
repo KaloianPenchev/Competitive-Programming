@@ -1,6 +1,3 @@
-//min | max | gcd
-
-
 #include <iostream>
 #include <vector>
 #include <cmath>
